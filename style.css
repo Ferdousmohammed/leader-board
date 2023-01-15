@@ -1,6 +1,46 @@
-#logo {
-    width: 320px;
+.fg {
+    background-color: #d4d3d8;
 }
-.creat {
-    background-color: yellow;
+
+#logo {
+    width: 40px;}
+.blue {
+    color: rgb(172, 110, 231);
+}
+ #wd  {
+    width: 25px;
+    margin-left: 5px;
+  
+}
+.set {
+    width: 100PX;
+    margin: 20px;
+}
+.name {
+    color: rgb(67, 137, 183);
+
+    margin: 5px;
+    padding: 7px;
+}
+.leaderr{
+    margin: 16px;
+    width: 870px;
+    height: auto;
+    left: 285px;
+    top: 135px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 1px solid #bb1111;
+}
+.setx {
+    width: 250px;
+    margin: 15px;
+    padding: 5px;
+
+}
+
+.con{
+    color: rgb(89, 33, 33);
+    margin: 15px;
+    padding: 9px;
 }
